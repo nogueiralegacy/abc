@@ -23,7 +23,7 @@ O canal de comunicação empregado para a interação entre os membros será um 
 - [Rosimeire Alves](https://github.com/RosimeireAlves)
 - [Gabriel Bispo](https://github.com/gabrielgcb)
 - [Daniel Nogueira](https://github.com/nogueiralegacy)
-- [Sophia Almeida](hhttps://github.com/sophiafma)
+- [Sophia Almeida](https://github.com/sophiafma)
 - [Giordana Bucci](https://github.com/Giodzz)
 - [Isabela de Queiroz](https://github.com/isabela-code)
 - [João Gabriel](https://github.com/mentejoao)
